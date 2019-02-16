@@ -15,6 +15,8 @@ You can access Google Colaboratory by clicking on one of the Jupyter Notebooks i
 You can also download the Jupyter Notebook and open it from Colaboratory:
 [Link to Colaboratory](https://colab.research.google.com/)
 
+### Before running a Jupyter Notebook when using it online with Google Drive, save it directly in your drive using the Colaboratory Menu.
+
 ## Accessing external data
 
 You can choose to download the data and adapt the code to your directory paths. 
