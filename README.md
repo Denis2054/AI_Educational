@@ -29,7 +29,7 @@ In this case the course contains:
 
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+markdown = Redcarpet.new("from google.colab import drive")
 puts markdown.to_html
 ```
 
