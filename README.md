@@ -12,3 +12,10 @@ You access Google Colaboratory by clicking on one of the Jupyter Notebooks in an
 You can also download the Jupyter Notebook and open it from Colaboratory:
 [Link to Colaboratory](https://colab.research.google.com/)
 
+Once the Notebook has been opened, you can view the code as well as the last results calculated.
+You can also run itself. 
+To do so, for applications that require external data, in most cases, you will have to download the data in this repository contained in the directory named "datasets". 
+
+
+
+
