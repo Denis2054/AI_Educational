@@ -10,5 +10,5 @@ Google Colaboratory Jupyter Notebooks are self-contained.
 You access Google Colaboratory by clicking on one of the Jupyter Notebooks in any of the repositories in my environment on GitHub. Then click the Colab button at the top of the Notebook.
 
 You can also download the Jupyter Notebook and open it from Colaboratory:
-[Link to Colaboratory](https://https://colab.research.google.com/)
+[Link to Colaboratory](https://colab.research.google.com/)
 
