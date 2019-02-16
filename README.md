@@ -24,8 +24,19 @@ Once the Notebook has been opened, you can view the code as well as the last res
 You can also run itself. 
 To do so, for applications that require external data, in most cases, you will have to download the data in this repository contained in the directory named "datasets". Then upload the data to any online repository that runs with Google Colaboratory.
 
+The examples in the Juypter Notebooks in my repositories generally contain datasets that are stored in Google Drive.
+In this case the course contains:
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 For more:
 [Link to External data documentation](https://colab.research.google.com/notebooks/io.ipynb)
+
+
 
 ## Using Google Drive
 
