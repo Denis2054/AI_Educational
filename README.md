@@ -28,9 +28,7 @@ The examples in the Juypter Notebooks in my repositories generally contain datas
 In this case the course contains:
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("from google.colab import drive")
-puts markdown.to_html
+from google.colab import drive
 ```
 
 For more:
