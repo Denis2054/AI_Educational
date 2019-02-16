@@ -7,7 +7,7 @@ Everything is opensource to be shared and used by all.
 
 Google Colaboratory Jupyter Notebooks are self-contained.
 
-##Opening Google Jupytyer Notebooks online
+## Opening Google Jupytyer Notebooks online
 There is nothing to download or install locally unless you wish to do so.
 
 You can access Google Colaboratory by clicking on one of the Jupyter Notebooks in any of the repositories in my environment on GitHub. Then click the Colab button at the top of the Notebook.
@@ -15,7 +15,7 @@ You can access Google Colaboratory by clicking on one of the Jupyter Notebooks i
 You can also download the Jupyter Notebook and open it from Colaboratory:
 [Link to Colaboratory](https://colab.research.google.com/)
 
-##Accessing external data
+## Accessing external data
 
 You can choose to download the data and adapt the code to your directory paths. 
 You can also run the datasets online.
@@ -27,7 +27,7 @@ To do so, for applications that require external data, in most cases, you will h
 For more:
 [Link to External data documentation](https://colab.research.google.com/notebooks/io.ipynb)
 
-##Using Google Drive
+## Using Google Drive
 
 
 
