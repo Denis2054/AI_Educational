@@ -25,7 +25,7 @@ You can also run itself.
 To do so, for applications that require external data, in most cases, you will have to download the data in this repository contained in the directory named "datasets". Then upload the data to any online repository that runs with Google Colaboratory.
 
 The examples in the Juypter Notebooks in my repositories generally contain datasets that are stored in Google Drive.
-In this case the course contains:
+In this case the code must contain:
 
 ```ruby
 from google.colab import drive
