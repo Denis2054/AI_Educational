@@ -10,7 +10,7 @@ Google Colaboratory Jupyter Notebooks are self-contained.
 ## Opening Google Jupytyer Notebooks online
 There is nothing to download or install locally unless you wish to do so.
 
-You can access Google Colaboratory by clicking on one of the Jupyter Notebooks in any of the repositories in my environment on GitHub. Then click the Colab button at the top of the Notebook.
+You can access Google Colaboratory by clicking on one of the Jupyter Notebooks in any of the repositories in the Denis2054 repositories on GitHub. Then click the Colab button at the top of the Notebook.
 
 You can also download the Jupyter Notebook and open it from Colaboratory:
 [Link to Colaboratory](https://colab.research.google.com/)
@@ -24,7 +24,7 @@ Once the Notebook has been opened, you can view the code as well as the last res
 You can also run itself. 
 To do so, for applications that require external data, in most cases, you will have to download the data in this repository contained in the directory named "datasets". Then upload the data to any online repository that runs with Google Colaboratory.
 
-The examples in the Juypter Notebooks in my repositories generally contain datasets that are stored in Google Drive.
+The examples in the Juypter Notebooks in Denis2054 repositories generally contain datasets that are stored in Google Drive.
 In this case the code must contain:
 
 ```ruby
@@ -37,6 +37,25 @@ For more:
 
 
 ## Using Google Drive
+
+Once you have added the right library header, then for Denis2054 Jupyter Notebook data, you can use  the same basic path as shown in following example:
+
+```ruby
+json_file = open('/content/gdrive/My Drive/datasets/chapter12/dataset/model/model.json', 'r')
+```
+In this path, your Google drive root directory will be 
+
+```ruby
+'/content/gdrive/My Drive/datasets/...)'
+```
+
+Then for each program you can add a subdirectory to that path:
+
+```ruby
+'/content/gdrive/My Drive/datasets/[a program's subdirectory/]', 'r')
+```
+The advantage of following this specific path structure, is that once you can load the directories in your Google Drive as strutured in the code of the Jupyter Notebooks in Denis2054 repositories without have to change the code.
+
 
 
 
