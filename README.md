@@ -61,6 +61,6 @@ The advantage of following this specific path structure, is that once you can lo
 
 ## Try an example: an Edge Detection Python program
 
-The Edge Detection example, https://github.com/Denis2054/NEXTGENAI/blob/master/Edge_detection_V3.ipynb, is just to show that you won't need to install, download or configure anything during the course:<br>
+The Edge Detection example, https://github.com/Denis2054/NEXTGENAI/blob/master/Edge_detection_V3.ipynb, is just to show that you won't need to install, download or configure anything to use these notebooks<br>
 
 
