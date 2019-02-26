@@ -58,7 +58,7 @@ Then for each program you can add a subdirectory to that path:
 ```
 The advantage of following this specific path structure, is that once you can load the directories in your Google Drive as strutured in the code of the Jupyter Notebooks in Denis2054 repositories without have to change the code.
 
-Note Download the 'datasets' directory from this repository and then upload in your drive following the path indicated in the program. Or you can change the path in the program if you wish to use another path.
+**Note:** Download the 'datasets' directory from this repository and then upload in your drive following the path indicated in the program. Or you can change the path in the program if you wish to use another path.
 
 ## Try an example: an Edge Detection Python program
 
