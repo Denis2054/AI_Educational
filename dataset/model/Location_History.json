@@ -1,0 +1,421 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 459739739,
+        "longitudeE7" : 64582279,
+        "placeId" : "ChIJI2fj8xn3i0cR-7rbYuuar-M",
+        "address" : "1602 Route de l'Envers du Chinaillon\n74450 Le Grand-Bornand\nFrance",
+        "name" : "L'igloo - Bar-Restaurant",
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1552080594499",
+        "endTimestampMs" : "1552082576906"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 459758909,
+      "centerLngE7" : 64611364
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 459761757,
+        "longitudeE7" : 64610271
+      },
+      "endLocation" : {
+        "latitudeE7" : 460727884,
+        "longitudeE7" : 63901317
+      },
+      "duration" : {
+        "startTimestampMs" : "1552082579240",
+        "endTimestampMs" : "1552126615305"
+      },
+      "distance" : 12056,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 59.46339034160513
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.605406484256786
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 12.866077910143797
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 459761757,
+          "lngE7" : 64610271
+        }, {
+          "latE7" : 460727884,
+          "lngE7" : 63901317
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 460727884,
+        "longitudeE7" : 63901317
+      },
+      "endLocation" : {
+        "latitudeE7" : 488421461,
+        "longitudeE7" : 24331671
+      },
+      "duration" : {
+        "startTimestampMs" : "1552126615305",
+        "endTimestampMs" : "1553341594042"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 482749104,
+          "lngE7" : 40914147,
+          "timestampMs" : "1552741432865",
+          "accuracyMeters" : 29
+        }, {
+          "latE7" : 488394620,
+          "lngE7" : 24325040,
+          "timestampMs" : "1553341570429",
+          "accuracyMeters" : 500
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 488421816,
+        "longitudeE7" : 24331657,
+        "placeId" : "ChIJo6Ch1pdy5kcRNSGR41urpGE",
+        "address" : "40 Avenue du Général de Gaulle\n94300 Vincennes\nFrance",
+        "name" : "40 Avenue du Général de Gaulle",
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553341594042",
+        "endTimestampMs" : "1553347768826"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 488421461,
+      "centerLngE7" : 24331671
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488421771,
+        "longitudeE7" : 24332038,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 488382543,
+        "longitudeE7" : 24174982,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553347768826",
+        "endTimestampMs" : "1553348308281"
+      },
+      "distance" : 1587,
+      "activityType" : "IN_BUS",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 40.495079229742906
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 39.824501729040804
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.681708862763678
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 488393750,
+          "longitudeE7" : 24295470,
+          "placeId" : "ChIJL2SogpZy5kcRc6lFewuX9Mk",
+          "name" : "Tourelle - Daumesnil"
+        }, {
+          "latitudeE7" : 488352166,
+          "longitudeE7" : 24202454,
+          "placeId" : "ChIJeXPgR41y5kcR3hPlytxdcxM",
+          "name" : "Saint-Mande - Demi Lune - Parc Zoologique"
+        } ],
+        "name" : "46",
+        "hexRgbColor" : "D2D200"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488360955,
+          "lngE7" : 24174459,
+          "timestampMs" : "1553348277265",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488363299,
+        "longitudeE7" : 24174602,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 488598417,
+        "longitudeE7" : 23823495,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553348308281",
+        "endTimestampMs" : "1553349502724"
+      },
+      "distance" : 4102,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 87.26582479361052
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 5.5587312153803285
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.9286040892439984
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 488360710,
+          "lngE7" : 24176282
+        }, {
+          "latE7" : 488465538,
+          "lngE7" : 24176290
+        }, {
+          "latE7" : 488589324,
+          "lngE7" : 23832752
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488461413,
+          "lngE7" : 24176796,
+          "timestampMs" : "1553348548421000",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 488586179,
+        "longitudeE7" : 23833765,
+        "placeId" : "ChIJ7_PhI_Rt5kcRpk6-YZ6MgWU",
+        "address" : "1 Rue Saint-Maur\n75011 Paris\nFrance",
+        "name" : "Chez Troquette",
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553349502724",
+        "endTimestampMs" : "1553355626889"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 488593650,
+      "centerLngE7" : 23826800
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488599358,
+        "longitudeE7" : 23822978,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 502885976,
+        "longitudeE7" : 27654812,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553355626889",
+        "endTimestampMs" : "1553426210136"
+      },
+      "distance" : 163574,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 71.44178595007178
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.265966477709378
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.817695167139569
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 488599357,
+          "lngE7" : 23823018
+        }, {
+          "latE7" : 502800750,
+          "lngE7" : 28148086
+        }, {
+          "latE7" : 502885627,
+          "lngE7" : 27653868
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 502885971,
+        "longitudeE7" : 27655558,
+        "placeId" : "ChIJlfcfdNtH3UcRvMRWUT8VGVI",
+        "address" : "24 Boulevard Crespel\n62000 Arras\nFrance",
+        "name" : "24 Boulevard Crespel",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553426210136",
+        "endTimestampMs" : "1553428708819"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 502886100,
+      "centerLngE7" : 27654900
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 502886389,
+        "longitudeE7" : 27655094,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 506184397,
+        "longitudeE7" : 30720186,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553428708819",
+        "endTimestampMs" : "1553429449847"
+      },
+      "distance" : 42664,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.81108869542749
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.1093390968799093
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9154229505940257
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 502885894,
+          "lngE7" : 27653656
+        }, {
+          "latE7" : 504111480,
+          "lngE7" : 29846713
+        }, {
+          "latE7" : 506184730,
+          "lngE7" : 30724248
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 506185308,
+        "longitudeE7" : 30719859,
+        "placeId" : "ChIJ7UWrXpXVwkcRNFdnKavOMRg",
+        "address" : "9 Place Fernig\n59000 Lille\nFrance",
+        "name" : "9 Place Fernig",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553429449847",
+        "endTimestampMs" : "1553430209458"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 506183646,
+      "centerLngE7" : 30717431
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 506189316,
+        "longitudeE7" : 30719503,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 482745797,
+        "longitudeE7" : 40919255,
+        "sourceInfo" : {
+          "deviceTag" : 1290503225
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1553430209458",
+        "endTimestampMs" : "1553514237945"
+      },
+      "distance" : 270901,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 78.27373256476491
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.898939024561876
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 2.932612394147725
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 506187057,
+          "lngE7" : 30726261
+        }, {
+          "latE7" : 482746315,
+          "lngE7" : 40920491
+        } ]
+      }
+    }
+  } ]
+}
