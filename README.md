@@ -7,6 +7,10 @@ Everything is opensource to be shared and used by all.
 
 Google Colaboratory Jupyter Notebooks are self-contained.
 
+# images citations:
+cat.jpg: Denis Rothman
+butterfly: [Wikicommons](https://commons.wikimedia.org/wiki/File:Small_heath_(Coenonympha_pamphilus)_P.jpg)
+
 ## Opening Google Jupytyer Notebooks online
 There is nothing to download or install locally unless you wish to do so.
 
