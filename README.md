@@ -10,8 +10,8 @@ Google Colaboratory Jupyter Notebooks are self-contained.
 # images citations:
 cat.jpg: Denis Rothman<br>
 butterfly: [Wikicommons](https://commons.wikimedia.org/wiki/File:Small_heath_(Coenonympha_pamphilus)_P.jpg)<br>
-cup:[Wikicommons](https://commons.wikimedia.org/w/index.php?search=small+images&title=Special:MediaSearch&go=Go&type=image)<br>
-bird:[Wikicommons](https://commons.wikimedia.org/w/index.php?search=small+images&title=Special:MediaSearch&go=Go&type=image)<br>
+cup:[Wikicommons](https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPGe)<br>
+bird:[Wikicommons](https://commons.wikimedia.org/wiki/File:Small_minivet_(Pericrocotus_cinnamomeus_pallidus)_male_Narlai.jpg)<br>
 
 
 ## Opening Google Jupytyer Notebooks online
