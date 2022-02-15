@@ -11,6 +11,8 @@ Google Colaboratory Jupyter Notebooks are self-contained.
 cat.jpg: Denis Rothman<br>
 butterfly: [Wikicommons](https://commons.wikimedia.org/wiki/File:Small_heath_(Coenonympha_pamphilus)_P.jpg)<br>
 cup:[Wikicommons](https://commons.wikimedia.org/w/index.php?search=small+images&title=Special:MediaSearch&go=Go&type=image)
+bird:[Wikicommons](https://commons.wikimedia.org/w/index.php?search=small+images&title=Special:MediaSearch&go=Go&type=image)
+
 
 ## Opening Google Jupytyer Notebooks online
 There is nothing to download or install locally unless you wish to do so.
