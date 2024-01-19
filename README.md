@@ -1,7 +1,7 @@
 # AI_Educational
 Jupyter Notebooks and datasets for AI educational purposes
 
-This repository contains AI material used for the books and courses I author and co-author.
+This repository contains AI resources I use for the books and courses that I author and co-author.
 
 # images citations:
 cat.jpg: Denis Rothman<br>
