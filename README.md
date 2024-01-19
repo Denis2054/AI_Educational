@@ -3,10 +3,6 @@ Jupyter Notebooks and datasets for AI educational purposes
 
 This repository contains AI material used for the books and courses I author and co-author.
 
-Everything is opensource to be shared and used by all.
-
-Google Colaboratory Jupyter Notebooks are self-contained.
-
 # images citations:
 cat.jpg: Denis Rothman<br>
 butterfly: [Wikicommons](https://commons.wikimedia.org/wiki/File:Small_heath_(Coenonympha_pamphilus)_P.jpg)<br>
